@@ -1,39 +1,42 @@
 # Hi there, I'm Luka Stefanovic 👋
 
-I'm a Computer Science undergraduate student with a passion for Cyber security, AI/ML applications in cyber security, open source. I enjoy creating [mention any specific types of projects you love working on, e.g., applications, data visualizations, etc.] and contributing to the community.
+I'm a Computer Science undergraduate student with a passion for Cybersecurity, AI/ML applications in cybersecurity, and open source. I enjoy creating applications and tools that enhance security and contribute to the community.
 
 ## 🔭 I’m currently working on
-- [Project Name](link-to-your-project) - A brief description of what it does and why it's interesting.
-- [Project Name](link-to-your-project) - A brief description of what it does and why it's interesting.
+- **Studying Calculus 2 and 3**: Deepening my understanding of mathematical concepts that are fundamental for advanced studies in Machine Learning and AI.
+- **Preparing for Probability and Statistics**: Planning to enhance my statistical knowledge, which is crucial for data analysis and ML algorithms.
+- **ISO 27001 Course**: Working on a course in my spare time that focuses on ISO 27001, vital for understanding information security management systems and best practices.
+- **Future ML Projects**: Eager to apply my mathematical skills in Machine Learning applications in cybersecurity once I complete my current studies.
 
 ## 🌱 I’m currently learning
-- [Technology/Language/Framework you are learning]
-- [Another technology you are learning]
+- Python for Data Science
+- Machine Learning Algorithms
 
 ## 👯 I’m looking to collaborate on
-- [Type of project or specific technologies, e.g., open source projects, web applications, etc.]
-- [Any specific area of interest for collaboration]
+- Open source projects related to cybersecurity
+- AI/ML projects focusing on security applications
 
 ## 🤔 I’m looking for help with
-- [Any topics or projects where you seek assistance or advice]
+- Advanced topics in AI/ML
+- Cybersecurity frameworks and best practices
 
 ## 💬 Ask me about
-- [Topics you are knowledgeable about]
-- [Technologies you enjoy working with]
+- Cybersecurity concepts and practices
+- Machine Learning techniques
+- Programming in Python
 
 ## 📫 How to reach me
-- [Your email address]
-- [LinkedIn profile](https://www.linkedin.com/in/luka-stefanovic-luka)
-- [Other social media or platforms where you're active]
+- Email: [42lukastefanovic@gmail.com](mailto:42lukastefanovic@gmail.com)
+- LinkedIn profile: [Luka Stefanovic](https://www.linkedin.com/in/luka-stefanovic-luka)
 
 ## ⚡ Fun fact
-- [A fun fact about yourself, a hobby, or a unique skill]
+- I enjoy participating in Capture The Flag (CTF) competitions related to cybersecurity.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** [List of programming languages you know, e.g., Python, JavaScript, etc.]
-- **Frameworks:** [List of frameworks you use, e.g., React, Django, etc.]
-- **Databases:** [Databases you work with, e.g., MySQL, MongoDB, etc.]
-- **Tools:** [Any tools you use, e.g., Git, Docker, etc.]
+- **Languages:** Python, JavaScript, C++, Java
+- **Frameworks:** Angular, NextJS
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Wireshark, Bash
 
 ## 🌈 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
