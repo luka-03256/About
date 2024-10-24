@@ -39,7 +39,8 @@ I'm a Computer Science undergraduate student with a passion for Cybersecurity, A
 - **Tools:** Git, Docker, Wireshark, Bash
 
 ## 🌈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luka-03256&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luka-03256&layout=compact&theme=radical)
+
 
 <!-- You can also include any other cool badges or links here -->
